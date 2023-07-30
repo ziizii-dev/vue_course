@@ -1,0 +1,30 @@
+-extend to Volar in VS Code
+
+-ch1 use link Using the global base
+
+{
+##Usign Vite
+
+-   npm init vue@latest
+
+-project name give to ch2
+
+-click NO
+
+-cd ch2
+
+-npm install
+
+-npm run dev}
+
+{ ## Using Cli
+
+-npm install @vue/cli
+
+-   vue --version
+
+-vue create myapp
+
+-npm run serve
+
+}
